@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>hfdy dfuddy</name>
+        <parent>5c322f1d1b203010aff9c991604bcba3</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 09:43:58</sys_created_on>
+        <sys_id>50322f1d1b203010aff9c991604bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hfdy dfuddy</sys_name>
+        <sys_package display_value="application" source="x_650586_applicati">49f0e7d91b203010aff9c991604bcba8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="application">49f0e7d91b203010aff9c991604bcba8</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_50322f1d1b203010aff9c991604bcba4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 09:43:58</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

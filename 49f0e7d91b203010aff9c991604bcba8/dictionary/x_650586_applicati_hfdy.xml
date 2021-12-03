@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="hfdy" max_length="40" name="x_650586_applicati_hfdy" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Dfuddy" max_length="40" name="dfuddy" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
