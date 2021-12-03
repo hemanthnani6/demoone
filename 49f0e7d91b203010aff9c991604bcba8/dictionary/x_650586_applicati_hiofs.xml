@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="hiofs" max_length="40" name="x_650586_applicati_hiofs" type="collection">
+        <element default="default" display="true" label="iugwfisu" max_length="40" name="iugwfisu" type="string"/>
+        <element label="judag" max_length="40" name="judag" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="judag" label="Judag" language="en" table="x_650586_applicati_hiofs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>judag</element>
+            <help/>
+            <hint/>
+            <label>Judag</label>
+            <language>en</language>
+            <name>x_650586_applicati_hiofs</name>
+            <plural>Judags</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 11:39:18</sys_created_on>
+            <sys_id>58fd018c2f944110bbcd24c62799b6d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Judag</sys_name>
+            <sys_package display_value="application" source="x_650586_applicati">49f0e7d91b203010aff9c991604bcba8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="application">49f0e7d91b203010aff9c991604bcba8</sys_scope>
+            <sys_update_name>sys_documentation_x_650586_applicati_hiofs_judag_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 11:39:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
